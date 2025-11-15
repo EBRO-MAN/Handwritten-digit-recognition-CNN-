@@ -7,7 +7,7 @@
 1. Ebrahim Abdulwehab  -------- DBUE/0728/13
 2. Afewerk Alemu       -------- DBUE/0702/13
 3. Kefelegn Habtamu    -------- DBUE/0862/13
-4. Bitania Getye       -------- DBUE/0718/13
+4. Bitaniya Getye       -------- DBUE/0718/13
 
 
 ## Project Overview
