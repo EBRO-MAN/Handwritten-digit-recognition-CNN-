@@ -23,7 +23,7 @@ Our team selected handwritten digit recognition because:
 
 - It provides a clean, well-established starting point for learning CNNs and transfer learning.
 - The MNIST dataset is ideal for demonstrating model development, training, evaluation, and deployment.
-- Most importantly, this project serves as the foundation for our upcoming final-year project:** Rule-Based Sheep Breeding Expert System**
+- Most importantly, this project serves as the foundation for our upcoming final-year project: **"Rule-Based Sheep Breeding Expert System"**
     Real sheep farms rely on **ear-tag numbers** for identification. These tags often contain handwritten or printed digits. Our goal is to extend this project by:
         - Collecting sheep ear-tag images  
         - Retraining or fine-tuning this CNN model  
@@ -72,4 +72,4 @@ Handwritten-digit-recognition-CNN-/
 We express our sincere gratitude to our course instructor Mr. Betselot Y. for providing clear instruction, and an opportunity to work on a real-world deep learning problem that strengthens our understanding of modern AI systems.
 
 
-** We appreciate your time reviewing our project and welcome all feedback.**
+**We appreciate your time reviewing our project and welcome all feedback.**
